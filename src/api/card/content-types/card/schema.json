@@ -28,7 +28,7 @@
       "type": "json",
       "required": true
     },
-    "nickname": {
+    "cardNickname": {
       "type": "string"
     }
   }
